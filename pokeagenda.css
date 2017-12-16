@@ -1,0 +1,316 @@
+body {
+background-color:#aaa;
+}
+
+#databox {
+  width:800px;
+  height:398px;
+  overflow: hidden;
+  position: absolute;
+  background-color: #b00;
+  top:102px;
+  border-bottom-left-radius: 0.5pc;
+  border-bottom-right-radius: 0.5pc;
+  border-right:1px solid black;
+  border-bottom:1px solid black;
+}
+
+#box_left {
+  float:left;
+  width:calc(50%);
+  height:100%;
+  border-right:1px solid black;
+  position:relative;
+}
+
+#box_right {
+  float:right;
+  width:calc(50% - 1px);
+  height:100%;
+  position:relative;
+}
+
+.pokedados {
+  display:none;
+  overflow:hidden;
+  width:100%;
+  height:100%;
+}
+
+.led {
+  position:absolute;
+}
+
+.led.grande {
+  width:80px;
+  height:80px;
+  top:10px;
+  left:10px;
+}
+
+.led.pequeno {
+  border:1px solid black;
+  width:16px;
+  height:16px;
+  border-radius:50%;
+}
+
+#led_vermelho_pequeno {
+  background-color:red;
+  top:20px;
+  left:130px;
+}
+
+#led_amarelo_pequeno {
+  background-color:yellow;
+  top:20px;
+  left:155px;
+}
+
+#led_verde_pequeno {
+  background-color:green;
+  top:20px;
+  left:180px;
+}
+
+#pokeagenda {
+  border:1px solid black;
+  overflow:visible;
+  position:absolute;
+  width: 400px;
+  height: 500px;
+  background: #c00;
+  border-radius: 0.5pc;
+  /*padding: 2pc;*/
+  top:2pc;
+  left:2pc;
+}
+
+#border_top {
+  width:801px;
+  height:40px;
+  position:absolute;
+  top:60px;
+}
+
+#display {
+  position:absolute;
+  top:20px;
+  left:45px;
+  width:300px;
+  height:192px;
+  overflow:hidden;
+  border:2px outset #fff;
+  border-radius:5px;
+  background-color:#eee;
+}
+
+#display div.display{
+  margin:32px;
+  background-color:#fef;
+  width:calc(100% - 64px);
+  height:calc(100% - 64px);
+  border:2px inset #eee;
+  border-radius:5px;
+  background-repeat: no-repeat;
+  background-position:center;
+}
+
+#display div.display.bug {
+  background-color:#909e1b44;
+}
+
+#display div.display.poison {
+  background-color:#a040a044;
+}
+
+#display div.display.fighting {
+  background-color:#c0302844;
+}
+
+#display div.display.ghost {
+  background-color:#5e4a8044;
+}
+
+#display div.display.ground {
+  background-color:#ad955144;
+}
+
+#display div.display.flying {
+  background-color:#8471bd44;
+}
+
+#display div.display.grass {
+  background-color:#65a84344;
+}
+
+#display div.display.fire{
+  background-color:#cc6d2944;
+}
+
+#display div.display.psychic{
+  background-color:#de4f7a44;
+}
+
+#display div.display.dragon{
+  background-color:#7038f844;
+}
+
+#display div.display.ice{
+  background-color:#87bfbf44;
+}
+
+#display div.display.rock{
+  background-color:#85732944;
+}
+
+#display div.display.normal{
+  background-color:#7a7a5744;
+}
+
+#display div.display.water{
+  background-color:#5d81d644;
+}
+
+#display div.display.eletric{
+  background-color:#c4a52644;
+}
+
+#display_name {
+  position:absolute;
+  padding:5px;
+  background-color:darkgreen;
+  width:160px;
+  height:50px;
+  border:2px inset #b00;
+  text-align:center;
+  color:#bb0;
+  line-height:1.5em;
+  font-weight:bold;
+  border-radius:5px;
+  top:270px;
+  left:70px;
+}
+
+.control {
+  position:absolute;
+  width:24px;
+  height:24px;
+  border:2px outset #333;
+  background-color:#333;
+  border-radius:3px;
+}
+
+#up.control {
+  border-bottom:none;
+  top:260px;
+  left:300px;
+}
+
+#down.control {
+  border-top:none;
+  top:308px;
+  left:300px;
+}
+
+#center.control {
+  border:none;
+  border-radius:0;
+  top:284px;
+  left:300px;
+}
+
+#right.control {
+  border-left:none;
+  top:284px;
+  left:324px;
+}
+
+#left.control {
+  border-right:none;
+  top:284px;
+  left:276px;
+}
+
+#display_evolution,#display_evolution_from{
+  padding:3px;
+  position:absolute;
+  width:145px;
+  height:50px;
+  overflow-y:auto;
+  overflow-x:hidden;
+  font-size:0.8em;
+  color:#1a1;
+  font-weight:bold;
+  border:2px inset #b00;
+  background-color:#333;
+  border-radius:5px;
+  top:308px;
+  left:40px;
+  line-height:1.2em;
+}
+
+#display_evolution {
+  top:308px;
+  left:205px;
+}
+
+#display_evolution_from {
+  top:308px;
+  left:40px;
+}
+
+#display_evolution span {
+  font-size:0.8em;
+}
+
+#display_evolution_from span {
+  line-height:2em;
+}
+
+#display_evolution > div,#display_evolution_from > div {
+  margin:2px;
+}
+
+img.pokemini {
+  width:auto;
+  max-height:40px;
+  float:left;
+  clear:left;
+}
+
+#display_text {
+  padding:2px;
+  position:absolute;
+  width:320px;
+  height:70px;
+  overflow-y:auto;
+  overflow-x:hidden;
+  font-size:0.7em;
+  color:#eec;
+  border:2px inset #b00;
+  background-color:#222;
+  border-radius:5px;
+  top:20px;
+  left:40px;
+  line-height:1.2em;
+  white-space:pre-wrap;
+}
+
+#buttons {
+  position:absolute;
+  width:330px;
+  height:90px;
+  top:110px;
+  left:40px;
+  background:black;
+}
+
+#buttons .button {
+  width:20%;
+  height:50%;
+  background-color:#69f;
+  border-radius:0;
+  border:2px outset #69f;
+}
+

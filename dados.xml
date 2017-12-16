@@ -1,0 +1,1688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="pokeagenda.xsl"?>
+
+<pokeagenda>
+<pokemon name="Bulbasaur" number="001">
+  <data>  Bulbasaur é um Pokémon dos tipos Grama e Venenoso.
+  
+  Junto com Charmander e Squirtle, Bulbasaur é um dos três Pokémons iniciais de Kanto.
+  
+  Bulbasaur pode ser visto cochilando sob luz solar intensa. Há uma semente em suas costas. Por ir absorvendo os raios do sol, a semente cresce progressivamente.
+  </data>
+  <evolution to="002" level="16"/>
+  <types>
+    <grass/>
+    <poison/>
+  </types>
+</pokemon>
+<pokemon name="Ivysaur" number="002">
+  <data>  Ivysaur é um Pokémon dos tipos Grama e Venenoso.
+  
+  Ele é a forma evoluída de Bulbasaur.
+  
+  Há uma flor nas costas desse Pokémon. Para sustentar seu peso, as pernas e o tronco de Ivysaur crescem espessos e fortes. Se ele começa a gastar mais tempo deitado na luz do sol, é um sinal de que o bulbo vai florescer em uma grande flor em breve.
+  </data>
+  <evolution to="003" level="32"/>
+  <types>
+    <grass/>
+    <poison/>
+  </types>
+</pokemon>
+<pokemon name="Venusaur" number="003">
+  <data>  Venusaur é um Pokémon dos tipos Grama e Venenoso.
+  
+  Ele é a forma evoluída de Ivysaur.
+
+  Sua flor libera um perfume suave que atrai os Pokémons. Este perfume se torna mais forte depois de um dia chuvoso.
+  </data>
+  <types>
+    <grass/>
+    <poison/>
+  </types>
+</pokemon>
+<pokemon name="Charmander" number="004">
+  <data>  Charmander é um Pokémon do tipo Fogo.
+  
+  Junto com Bulbasaur e Squirtle, Charmander é um dos três Pokémons iniciais da região de Kanto.
+  
+  Uma chama queima na ponta do seu rabo desde o nascimento. Dizem que o Charmander morre se a sua chama se apagar.
+  </data>
+  <evolution to="005" level="16"/>
+  <types>
+    <fire/>
+  </types>
+</pokemon>
+<pokemon name="Charmeleon" number="005">
+  <data>  Charmeleon é um Pokémon do tipo Fogo.
+
+  Ele é a forma evoluída de Charmander.
+
+  Gosta muito de brigas, por isso busca constantemente por adversários. Ele ataca com suas garras afiadas e usando sua cauda como chicote de fogo. Pode soltar chamas azuis quando muito animado.
+  </data>
+  <evolution to="006" level="36"/>
+  <types>
+    <fire/>
+  </types>
+</pokemon>
+<pokemon name="Charizard" number="006">
+  <data>  Charizard é um Pokémon dos tipos Fogo e Voador.
+
+  Ele é a forma evoluída de Charmeleon.
+
+  Seu fogo é quente o suficiente para derreter rochas. Quando nervoso, a chama em sua cauda queimará intensamente. É orgulhoso e voa pelos céus em busca de adversários poderosos.
+  </data>
+  <types>
+    <fire/>
+    <flying/>
+  </types>
+</pokemon>
+<pokemon name="Squirtle" number="007">
+  <evolution to="008" level="16"/>
+  <types>
+    <water/>
+  </types>
+  <data>  Squirtle é um Pokémon tipo água.
+
+  Junto de Bulbasaur e Charmander, Squirtle é um dos três Pokémons iniciais da região de Kanto.
+
+  Quando nasce, seu casco é mole, mas logo endurece. Cutucando com o dedo fará os pedaços de seu casco saltar. Ele entra dentro do casco quando se sente ameaçado.
+  </data>
+</pokemon>
+<pokemon name="Wartortle" number="008">
+  <evolution to="009" level="36"/>
+  <types>
+    <water/>
+  </types>
+  <data>  Wartortle é um Pokémon do tipo água.
+
+  Ele é a forma evoluída de Squirtle.
+
+  É muito inteligente, sabe controlar as orelhas e o rabo para manter o equilíbrio na água e nadar em altas velocidades. Seu rabo felpudo é símbolo de longevidade, sabedoria e boa sorte.
+  </data>
+</pokemon>
+<pokemon name="Blastoise" number="009">
+  <data>  Blastoise é um Pokémon tipo água.
+
+  Ele é a forma evoluída de Wartortle.
+
+  O casco em suas costas possuem canhões que jorram água pressurizada forte o suficiente para perfurar uma parede de concreto. Também usa o seu casco pesado para atacar.
+  </data>
+  <types>
+    <water/>
+  </types>
+</pokemon>
+<pokemon name="Caterpie" number="010">
+  <data>  Caterpie é um Pokémon tipo inseto.
+
+  As antenas em sua cabeça irá emitir um fedor terrível de que se o Caterpie tem medo ou se as antenas são tocadas. Isto serve como um mecanismo de protecção eficaz contra a maioria dos predadores. Seus pés são derrubados com ventosas, permitindo que este Pokémon para escalar a maioria das superfícies com o mínimo esforço. Ele também pode cuspir uma cordas de sua boca.
+  </data>
+  <types>
+    <bug/>
+  </types>
+  <evolution to="011" level="7"/>
+</pokemon>
+<pokemon name="Metapod" number="011">
+  <data>  Metapod é um Pokémon tipo Inseto.
+  
+  Ele é a forma evoluída de Caterpie.
+
+  Se um inimigo descobre Metapod, ele é incapaz de fazer outra coisa senão endurecer sua casca exterior.
+  </data>
+  <types>
+    <bug/>
+  </types>
+  <evolution to="012" level="10"/>
+</pokemon>
+<pokemon name="Butterfree" number="012">
+  <data>  Butterfree é um Pokémon do tipo Inseto e Voador.
+  
+  Ele é a forma evoluída de Metapod.
+
+  Gosta de coletar mel das plantas. Suas asas batem tão rapidamente que acaba deixando um rastro de poeira tóxica pelo ar. As asas resistem a água, permitindo-o voar em fortes chuvas. 
+  </data>
+  <types>
+    <bug/>
+    <flying/>
+  </types>
+</pokemon>
+<pokemon name="Weedle" number="013">
+  <evolution to="014" level="7"/>
+  <data>  Weedle é um Pokémon tipo Inseto e Venenoso.
+  
+  Weedle pode retaliar contra os atacantes com sua forte toxina. Ele pode distinguir os seus tipos favoritos de folhas usando seu olfato.
+
+  Como um jovem Pokémon Inseto, seu apetite por folhas corresponde ao seu peso. Weedle pode ser encontrado em florestas e, geralmente, se esconde na grama, arbustos, e sob as folhas que come. 
+  </data>
+  <types>
+    <bug/>
+    <poison/>
+  </types>
+</pokemon>
+<pokemon name="Kakuna" number="014">
+  <evolution to="015" level="10"/>
+  <data>  Kakuna é um Pokémon tipo Inseto e Venenoso.
+  
+  Ele é a forma evoluída de Weedle.
+
+  Enquanto aguarda sua evolução, os Kakunas vivem agarrados em árvores para se esconder dos predadores. Embora ainda seja um casulo, consegue se mexer um pouco.
+  </data>
+  <types>
+    <bug/>
+    <poison/>
+  </types>
+</pokemon>
+<pokemon name="Beedrill" number="015">
+  <data>  Beedrill é um Pokémon tipo Inseto e Venenoso.
+  
+  Ele é a forma evoluída de Kakuna.
+
+  Beedrill é altamente territorialista e normalmente vive em colônias. O Beedrill parece estar especialmente preocupado com o bem estar de Weedles e Kakunas, e vai responder de forma agressiva para aqueles que os perturbem.
+  </data>
+  <types>
+    <bug/>
+    <poison/>
+  </types>
+</pokemon>
+<pokemon name="Pidgey" number="016">
+  <data>  Pidgey é um Pokémon tipo normal e voador.
+  
+  Pidgey tem um sentido extremamente afiado de direção e instintos teleguiados. Ele pode localizar seu ninho, mesmo quando longe de ambiente familiar. Devido a isso, é extremamente fácil treinar para entregar mensagens.
+
+  Entre todos os Pokémons voadores, é o mais gentil e fácil de capturar, um alvo perfeito para que o treinador Pokémon iniciante teste suas habilidades.
+  </data>
+  <evolution to="017" level="18"/>
+  <data>  Pidgey é um Pokémon tipo normal e voador.
+  
+  Pidgey tem um sentido extremamente afiado de direção e instintos teleguiados. Ele pode localizar seu ninho, mesmo quando longe de ambiente familiar. Devido a isso, é extremamente fácil treinar para entregar mensagens.
+
+  Entre todos os Pokémons voadores, é o mais gentil e fácil de capturar, um alvo perfeito para que o treinador Pokémon iniciante teste suas habilidades.
+  </data>
+  <types>
+    <normal/>
+    <flying/>
+  </types>
+</pokemon>
+<pokemon name="Pidgeotto" number="017">
+  <evolution to="018" level="36"/>
+  <data>  Pidgeotto é um Pokémon tipo normal e voador.
+  
+  Ele é a forma evoluída de Pidgey.
+
+  Pidgeotto normalmente habita em florestas espessas e com árvores de grande porte. Sabe-se que sua presa preferida é o Magikarp.
+  </data>
+  <types>
+    <normal/>
+    <flying/>
+  </types>
+</pokemon>
+<pokemon name="Pidgeot" number="018">
+  <data>  Pidgeot é um Pokémon tipo normal e voador.
+  
+  Ele é a forma evoluída de Pidgeotto.
+
+  Suas asas poderosas são capazes de agitar vendavais em apenas alguns retalhos, e pode espalhar suas asas para intimidar os inimigos. Este Pokémon é capaz de voar mais rápido do que a velocidade do som. Sua plumagem é frequentemente descrito como bonito, tornando-se uma escolha popular para os qualificados instrutores.
+  </data>
+  <types>
+    <normal/>
+    <flying/>
+  </types>
+</pokemon>
+<pokemon name="Rattata" number="019">
+  <evolution to="020" level="20"/>
+  <data>  Rattata é um Pokémon do tipo Normal.
+  
+  Rattata têm um metabolismo rápido. Como resultado, ele passa a maior parte de sua vida correndo à procura de comida. Graças a suas presas afiadas, eles são capazes de comer quase tudo.
+
+  Um Pokémon da floresta. Ele gosta de queijo, nozes, frutas e cerejas.Ele também surge em campos abertos para roubar comida de viajantes trouxas.
+  </data>
+  <types>
+    <normal/>
+  </types>
+</pokemon>
+<pokemon name="Raticate" number="020">
+  <data>  Raticate é um Pokémon do tipo Normal.
+  
+  Ele é a forma evoluída de Rattata.
+
+  Se atacado, Raticate levanta suas patas traseiras, mostra seus caninos e grita de uma maneira intimadora. Seus dentes são fortes o suficiente para roer aço. Pode até mastigar a parede de casas, de cimento e derrubar edifícios de concreto.
+  </data>
+  <types>
+    <normal/>
+  </types>
+</pokemon>
+<pokemon name="Spearow" number="021">
+  <evolution to="022" level="20"/>
+  <data>  Spearow é um Pokémon dos tipos normal e voador.
+  
+  Diferente do Pidgey, o Spearow tem uma conduta péssima, ele é muito selvagem e algumas vezes ataca outros pokemons e seres humanos.
+
+  Spearow, embora inepto no aspecto de seu voo, é capaz de voar rapidamente para proteger seu território. No entanto, precisa manter suas asas em alta velocidade para ficar no alto.
+  
+  Seus altos gritos podem ser ouvidos á quilômetros de distância e geralmente são usados para alertar seus companheiros quando estão em perigo.
+  </data>
+  <types>
+    <normal/>
+    <flying/>
+  </types>
+</pokemon>
+<pokemon name="Fearow" number="022">
+  <data>  Fearow é um Pokémon dos tipos normal e Voador.
+  
+  Ele é a forma evoluída de Spearow.
+
+  Fearow é reconhecido pelo pescoço longo e pelo bico alongado. Eles são convenientemente anatômicos para pegar presas no solo ou na água.
+  </data>
+  <types>
+    <normal/>
+    <flying/>
+  </types>
+</pokemon>
+<pokemon name="Ekans" number="023">
+  <evolution to="024" level="22"/>
+  <data>  Ekans é um Pokémon do tipo venenoso.
+  
+  Ekans é capaz de separar suas mandíbulas para engolir uma grande presa inteira, embora isso faz com que seus corpos estejam pesados. Ele também pode usar sua língua para sentir o perigo, e pode mover-se silenciosamente através da grama.
+  </data>
+  <types>
+    <poison/>
+  </types>
+</pokemon>
+<pokemon name="Arbok" number="024">
+  <data>  Arbok é um Pokémon do tipo venenoso.
+  
+  Ele é a forma evoluída de Ekans.
+
+  Este Pokémon é terrivelmente forte para esmagar as coisas com seu corpo. Pode até retorcer tambores de óleo em aço. Uma vez que Arbok envolve seu corpo ao redor de seu inimigo, escapar de seu abraço cruel é impossível.
+  </data>
+  <types>
+    <poison/>
+  </types>
+</pokemon>
+<pokemon name="Pikachu" number="025">
+  <data>  Pikachu é um Pokémon do tipo elétrico.
+  
+  Ele é a forma evoluída de Pichu.
+
+  Pikachu acumula energia em suas glândulas elétricas localizadas na bochecha, que muitas vezes precisa de diminuição de carga de forma a não resultar em um curto, problemas físicos de paralisia, ou em casos mais graves, a morte. Pikachu libera a energia acumulada através de sua cauda que age como uma haste de aterramento para remover energia desnecessária segurança.
+  </data>
+  <types>
+    <eletric/>
+  </types>
+  <evolution to="026" stone="Thunder"/>
+</pokemon>
+<pokemon name="Raichu" number="026">
+  <data>  Raichu é um Pokémon do tipo elétrico.
+  
+  Ele é a forma evoluída de Pikachu.
+
+  Raichu pode absorver cargas elétricas do ambiente erguendo sua cauda, e para descarregar eletricidade enterra a cauda no chão. Quando o Raichu armazena muita energia ele pode ficar muito agressivo.
+  </data>
+  <types>
+    <eletric/>
+  </types>
+</pokemon>
+<pokemon name="Sandshrew" number="027">
+  <evolution to="028" level="22"/>
+  <data>  Sandshrew é um Pokémon do tipo terra.
+  
+  O corpo da Sandshrew lhe permite absorver água sem resíduos, possibilitando-o sobreviver em um deserto árido.
+  
+  Este Pokémon se enrola para se proteger de seus inimigos.
+  </data>
+  <types>
+    <ground/>
+  </types>
+</pokemon>
+<pokemon name="Sandslash" number="028">
+  <data>  Sandslash é um Pokémon do tipo terra.
+  
+  Ele é a forma evoluída de Sandshrew.
+  
+  O corpo de Sandslash é coberto por duros espinhos, que são partes endurecidas de sua pele.Uma vez por ano, os espinhos antigos caem e são substituídos por novos espinhos que crescem abaixo dos antigos.
+  </data>
+  <types>
+    <ground/>
+  </types>
+</pokemon>
+<pokemon name="Nidoran♀" number="029">
+  <data>  Nidoran (fêmea) é um Pokémon do tipo venenoso.
+  
+  Este Pokémon tem bigodes que secretam um veneno poderoso. Eles desenvolveram esta proteção por serem um Pokémon pequeno. Quando enfurecido, libera uma toxina horrível de seu chifre.
+  </data>
+  <evolution to="030" level="16"/>
+  <types>
+    <poison/>
+  </types>
+</pokemon>
+<pokemon name="Nidorina" number="030">
+  <evolution to="031" stone="Moon"/>
+  <data>  Nidorana é um Pokémon do tipo venenoso.
+  
+  É a forma evoluída de Nidoran (fêmea).
+  
+  Nidorina é um Pokémon suave, conhecido por ser uma mãe carinhosa que mastiga o alimento para seus filhotes. Pode mostrar os laços familiares estreitos com outros de sua espécie, e torna-se nervoso quando se separaram.
+  </data>
+  <types>
+    <poison/>
+  </types>
+</pokemon>
+<pokemon name="Nidoqueen" number="031">
+  <data>  Nidoqueen é um Pokémon dos tipos venenoso e terra.
+  
+  É a forma evoluída de Nidorina.
+  
+  O corpo de Nidoqueen é formado de escamas extremamente duras. Gosta de fazer ataques à inimigos voadores, lançando duras farpas. 
+  
+  Este Pokémon fica mais forte ao defender os mais jovens.
+  </data>
+  <types>
+    <poison/>
+    <ground/>
+  </types>
+</pokemon>
+<pokemon name="Nidoran♂" number="032">
+  <evolution to="033" level="16"/>
+  <data>  Nidoran (macho) é um Pokémon do tipo venenoso.
+  
+  Este Pokémon desenvolveu músculos para mover os ouvidos. Graças a eles, as orelhas podem ser movidas livremente em qualquer direção. Mesmo o menor som não escapa ao alerta deste Pokémon.
+  </data>
+  <types>
+    <poison/>
+  </types>
+</pokemon>
+<pokemon name="Nidorino" number="033">
+  <evolution to="034" stone="Moon"/>
+  <data>  Nidorino é um Pokémon do tipo venenoso.
+  
+  É a forma evoluída de Nidoran (macho).
+  
+  Nidorino tem um chifre que é mais duro do que um diamante. Se perceber uma presença hostil, todas as farpas de suas costas ficam eretas de uma vez, e desafia o inimigo com todas as suas forças.
+  </data>
+  <types>
+    <poison/>
+  </types>
+</pokemon>
+<pokemon name="Nidoking" number="034">
+  <data>  Nidoking é um Pokémon dos tipos venenoso e terra.
+  
+  É a forma evoluída de Nidorino.
+  
+  A cauda grossa de Nidoking garante um enorme poder destrutivo. Com um balanço, pode derrubar uma torre de transmissão de metal. Uma vez que este Pokémon se enfurece, não há como parar.
+  </data>
+  <types>
+    <poison/>
+    <ground/>
+  </types>
+</pokemon>
+<pokemon name="Clefairy" number="035">
+  <evolution to="036" stone="Moon"/>
+  <data>  Clefairy é um Pokémon do tipo normal.
+  
+  Seu comportamento adorável e chorão tornam altamente popular. No entanto, este Pokémon bonito é raramente encontrado. 
+
+  Ele voa com as asas em suas costas para coletar o luar. 
+
+  Diz-se que a felicidade virá para aqueles que vêem um encontro de Clefairy dançando sob a lua cheia. 
+
+  Em todas as noites de lua cheia, os grupos deste Pokémon saiem para brincar. Quando o amanhecer chega, os cansados Clefairy retornam a seus tranquilos refúgios da montanha e dormem aninhado-se uns com os outros.
+  </data>
+  <types>
+    <normal/>
+  </types>
+</pokemon>
+<pokemon name="Clefable" number="036">
+  <data>  Clefable é um Pokémon do tipo normal.
+  
+  É a forma evoluída de Clefairy.
+  
+  Um pokémon muito tímido, foge sempre que percebe estar sendo observado. Possui uma audição bem aguçada. Ele dá leves saltos para se locomover, permitindo-o passear sobre lagos em noites de luar. 
+
+  Com sua audição aguçada, ele pode pegar sons de longe. Ele geralmente se esconde em lugares calmos. 
+
+  Eles parecem ser muito protetor de seu próprio mundo. É uma espécie de fada, raramente visto pelas pessoas.
+  </data>
+  <types>
+    <normal/>
+  </types>
+</pokemon>
+<pokemon name="Vulpix" number="037">
+  <evolution to="038" stone="Fire"/>
+  <data>  Vulpix é um Pokémon do tipo fogo.
+  
+  Vulpix é capaz de aprender movimentos do tipo Fogo naturalmente, bem como aprender alguns movimentos do tipo fantasma. Sua habilidade o impede de serem prejudicados por movimentos do tipo fogo também.
+
+  Vulpix geralmente tem um temperamento amigável, se não for mimado. Quando a temperatura externa aumenta, eles vão expulsar chamas de suas bocas para evitar que seu corpo de superaquecimento devido a chama dentro de seus corpos.
+  </data>
+  <types>
+    <fire/>
+  </types>
+</pokemon>
+<pokemon name="Ninetales" number="038">
+  <data>  Ninetales é um Pokémon do tipo fogo.
+  
+  É a forma evoluída de Vulpix.
+  
+  Ninetales é extremamente inteligênte. A maioria considera ele do tipo psíquico embora Ninetales nunca foi oficialmente descrito como qualquer coisa que não seja um do tipo fogo.
+  
+  Ele também parece guardar rancor muito fácil, e irá amaldiçoar os humanos e Pokémon que tocarem em uma de suas caudas.
+  </data>
+  <types>
+    <fire/>
+  </types>
+</pokemon>
+<pokemon name="Jigglypuff" number="039">
+  <evolution to="040" stone="Moon"/>
+  <data>  Jigglypuff, um Pokémon do tipo normal.
+  
+  Tem olhos grades e amigáveis e canta uma bela canção.
+  
+  Este Pókemon cativa os inimigos com seus enormes olhos, depois acalma-os cantando uma suave melodia para dormir.
+  </data>
+  <types>
+    <normal/>
+  </types>
+</pokemon>
+<pokemon name="Wigglytuff" number="040">
+  <data>  Wigglytuff, um Pokémon do tipo normal.
+  
+  É a forma evoluída de Jigglypuff.
+  
+  Sua pele é macia e seu corpo é bastante flexível. Quando está com raiva, consegue inalar o ar repetidas vezes, inflando seu corpo cada vez mais.
+  </data>
+  <types>
+    <normal/>
+  </types>
+</pokemon>
+<pokemon name="Zubat" number="041">
+  <evolution to="042" level="22"/>
+  <data>  Zubat, um Pokémon dos tipos venenoso e voador.
+  
+  Sua audição é bem apurada. Para identificar aquilo que estiver em seu caminho, Zubat solta ondas ultra-sônicas. Isso lhe permite voar com segurança mesmo em locais escuros.
+  </data>
+  <types>
+    <poison/>
+    <flying/>
+  </types>
+</pokemon>
+<pokemon name="Golbat" number="042">
+  <data>  Golbat, um Pokémon dos tipos venenoso e voador.
+
+  É a forma evoluída de Zubat.
+  
+  Com os dentes bastante afiados, morde suas vítimas para sugar o sangue. Ele não irá parar de drenar a energia da vítima até estar satisfeito. Se chupa muito sangue, fica pesado e voa desajeitadamente.
+  </data>
+  <types>
+    <poison/>
+    <flying/>
+  </types>
+</pokemon>
+<pokemon name="Oddish" number="043">
+  <evolution to="044" level="21"/>
+  <data>  Oddish, um Pokémon dos tipos grama e venenoso.
+
+  Durante o dia costuma ficar enterrado no chão, deixando apenas as suas folhas expostas. Ele irá berrar caso alguém tente arrancá-lo de lá. À noite sai para espalhar suas sementes.
+  </data>
+  <types>
+    <grass/>
+    <poison/>
+  </types>
+</pokemon>
+<pokemon name="Gloom" number="044">
+  <evolution to="045" stone="Leaf"/>
+  <data>  Gloom, um Pokémon dos tipos grama e venenoso.
+
+  É a forma evoluída de Oddish.
+  
+  O fedor proveniente da flor de sua cabeça pode ser sentido à distância. Ele fede mais ainda quando se sente ameaçado. A baba que escorre de sua boca na verdade é um néctar.
+  </data>
+  <types>
+    <grass/>
+    <poison/>
+  </types>
+</pokemon>
+<pokemon name="Vileplume" number="045">
+  <data>  Vileplume, um Pokémon dos tipos grama e venenoso.
+
+  É a forma evoluída de Gloom.
+  
+  Quanto maiores forem as suas pétalas, mais tóxico será o pólen contido nelas. Elas são tão pesadas que é difícil de aguentar. Ao sacudir as pétalas, o ar ao seu redor fica amarelo.
+  </data>
+  <types>
+    <grass/>
+    <poison/>
+  </types>
+</pokemon>
+<pokemon name="Paras" number="046">
+  <evolution to="047" level="24"/>
+  <data>  Paras, um Pokémon dos tipos inseto e grama.
+
+  Cogumelos parasita crescem nas costas de Paras. Eles absorvem nutrientes deste hospedeiro. São altamente valorizados como remédios para prolongar a vida.
+  </data>
+  <types>
+    <bug/>
+    <grass/>
+  </types>
+</pokemon>
+<pokemon name="Parasect" number="047">
+  <data>  Parasect, um Pokémon dos tipos inseto e grama.
+
+  É a forma evoluída de Paras.
+  
+  Parasect é controlado pelo cogumelo que cresceu em suas costas. Graças a ele, vive em locais úmidos e escuros. Ele solta esporos venenosos por onde passa.
+  </data>
+  <types>
+    <bug/>
+    <grass/>
+  </types>
+</pokemon>
+<pokemon name="Venonat" number="048">
+  <evolution to="049" level="31"/>
+  <data>  Venonat, um Pokémon dos tipos inseto e venenoso.
+
+  Seus olhos grandes podem atuar como radares. Eles são compostos por diversos outros olhos menores. São ótimos para enxergar no escuro ou ver coisas minúsculas.
+  </data>
+  <types>
+    <bug/>
+    <poison/>
+  </types>
+</pokemon>
+<pokemon name="Venomoth" number="049">
+  <data>  Venomoth, um Pokémon dos tipos inseto e venenoso.
+
+  É a forma evoluída de Venonat.
+  
+  Quando ele ataca, bate suas grandes asas escuras violentamente para espalhar seu pó venenoso por todos os lados. Se suas asas tiverem uma coloração mais clara, seu pó é paralisante.
+  </data>
+  <types>
+    <bug/>
+    <poison/>
+  </types>
+</pokemon>
+<pokemon name="Diglett" number="050">
+  <evolution to="051" level="26"/>
+  <data>  Diglett, um Pokémon do tipo terra.
+
+  É a forma evoluída de Venonat.
+  
+  Passa a maior parte do tempo enterrado no subsolo. Seu método de escavação pode deixar um campo perfeito para o cultivo. Ele se alimenta das raízes das árvores.
+  </data>
+  <types>
+    <ground/>
+  </types>
+</pokemon>
+<pokemon name="Dugtrio" number="051">
+  <data>  Dugtrio, um Pokémon do tipo terra.
+
+  É a forma evoluída de Diglett.
+  
+  Dugtrio são realmente trigêmeos que surgiram de um corpo. Como resultado, cada trigêmeo pensa exatamente como os outros dois trigêmeos. Eles trabalham cooperativamente para escavar sem parar. Ele desencadeia terremotos gigantes cavando a 96 km abaixo da terra.
+  </data>
+  <types>
+    <ground/>
+  </types>
+</pokemon>
+<pokemon name="Meowth" number="052">
+  <evolution to="053" level="28"/>
+  <data>  Meowth, um Pokémon do tipo normal.
+  
+  Meowth retira suas garras afiadas das patas para silenciosamente esgueirar-se furtivamente sem deixar nenhum rastro. Por alguma razão, este pokémon ama moedas brilhantes.
+  </data>
+  <types>
+    <normal/>
+  </types>
+</pokemon>
+<pokemon name="Persian" number="053">
+  <data>  Persian, um Pokémon do tipo normal.
+
+  É a forma evoluída de Meowth.
+  
+  Tem um temperamento vicioso. Cuidado! Se ele levanta a cauda, é um sinal de que ele está prestes a atacar e morder. Embora seu pelo tenha muitos admiradores, é difícil criar como um animal de estimação por causa de sua mesquinharia.
+  </data>
+  <types>
+    <normal/>
+  </types>
+</pokemon>
+<pokemon name="Psyduck" number="054">
+  <evolution to="055" level="33"/>
+  <data>  Psyduck, um Pokémon do tipo água.
+  
+  Oprimido por habilidades enigmáticas, ele sofre uma dor de cabeça constante. Quando sua dor de cabeça chega ao ápice, ele usa seus misteriosos poderes psíquicos para mandar pra longe o que está o irritando.
+  </data>
+  <types>
+    <water/>
+  </types>
+</pokemon>
+<pokemon name="Golduck" number="055">
+  <data>  Golduck, um Pokémon do tipo água.
+
+  É a forma evoluída de Psyduck.
+  
+  Ele é visto nadando de forma dinâmica e elegante usando seus membros e nadadeiras bem desenvolvidos. É constantemente confundido com o Kappa, um assassino monstro japonês.
+  </data>
+  <types>
+    <water/>
+  </types>
+</pokemon>
+<pokemon name="Mankey" number="056">
+  <evolution to="057" level="28"/>
+  <data>  Mankey, um Pokémon do tipo lutador.
+  
+  Vive em colônias nas copas das árvores. Se você enfurecer um deles, vai ter que lidar com um bando furioso de Mankey. Não é seguro se aproximar dele quando está violento e furioso por nenhum motivo, pois quando isso acontece, ele não consegue distinguir amigos de inimigos.
+  </data>
+  <types>
+    <fighting/>
+  </types>
+</pokemon>
+<pokemon name="Primeape" number="057">
+  <data>  Primeape, um Pokémon do tipo lutador.
+
+  É a forma evoluída de Mankey.
+  
+  Se você se aproximar enquanto ele dorme você pode acabar acordando-o, começando assim uma furiosa caçada com esse primata bêbado de sono. Ele persegue qualquer um que faça contato visual.
+  </data>
+  <types>
+    <fighting/>
+  </types>
+</pokemon>
+<pokemon name="Growlithe" number="058">
+  <evolution to="059" stone="Fire"/>
+  <data>  Growlithe, um Pokémon do tipo fogo.
+  
+  Um pokémon naturalmente leal, fiel e obediente. Ele permanece imóvel até receber ordem de seu treinador. Se ordenado, ele não hesitará em atacar inimigos maiores e mais fortes, porém seu senso de justiça impede que ele ataque imediatamente oponentes mais fracos e menores.l.
+  </data>
+  <types>
+    <fire/>
+  </types>
+</pokemon>
+<pokemon name="Arcanine" number="059">
+  <data>  Arcanine, um Pokémon do tipo fogo.
+
+  É a forma evoluída de Growlithe.
+  
+  Este lendário pokémon chinês é considerado magnífico. Muitas pessoas se encantam por sua enorme juba. Seu imponente latido transmite uma ideia de líder. Todos que ouvem não podem fazer nada além de se ajoelhar para sua majestade.
+  </data>
+  <types>
+    <fire/>
+  </types>
+</pokemon>
+<pokemon name="Poliwag" number="060">
+  <evolution to="061" level="25"/>
+  <data>  Poliwag, um Pokémon do tipo água.
+  
+  Sua pele é tão fina que se você prestar bastante atenção você consegue enxergar seus órgãos internos. Tem dificuldade para andar com seus pés recém-crescidos e por isso ele tropeça frequentemente.
+  </data>
+  <types>
+    <water/>
+  </types>
+</pokemon>
+<pokemon name="Poliwhirl" number="061">
+  <evolution to="062" stone="Water"/>
+  <data>  Poliwhirl, um Pokémon do tipo água.
+
+  É a forma evoluída de Poliwag.
+  
+  A espiral na sua barriga gira sutilmente. Olhar para essa espiral pode te deixar desde sonolento até, no máximo, hipnotizado. Suas duas pernas são bem desenvolvidas, logo ele não tropeça mais. Pode viver tranquilamente na terra, mas ele prefere viver na água.
+  </data>
+  <types>
+    <water/>
+  </types>
+</pokemon>
+<pokemon name="Poliwrath" number="062">
+  <data>  Poliwrath, um Pokémon dos tipos água e lutador.
+
+  É a forma evoluída de Poliwhirl.
+  
+  Poliwrath tem um corpo altamente desenvolvido e não importa o quão exaustivo é o trabalho, seus músculos nunca ficam cansados. É tão incansavelmente forte que ele pode nadar de um lado ao outro do Oceano Pacífico sem fazer muito esforço.
+  </data>
+  <types>
+    <water/>
+    <fighting/>
+  </types>
+</pokemon>
+<pokemon name="Abra" number="063">
+  <evolution to="064" level="16"/>
+  <data>  Abra, um Pokémon do tipo psíquico.
+  
+  Usar poderes psíquicos causa tanta tensão em seu cérebro que ele precisa dormir 18 horas por dia. Por essa razão, é difícil ver um Abra usando qualquer golpe diferente do Teleportar.
+  </data>
+  <types>
+    <psychic/>
+  </types>
+</pokemon>
+<pokemon name="Kadabra" number="064">
+  <evolution to="065" how="Trade" />
+  <data>  Kadabra, um Pokémon do tipo psíquico.
+
+  É a forma evoluída de Abra.
+  
+  Logo após evoluir seu poder mental aumenta deixando ele utilizar vários golpes psíquicos poderosos, porém que precisam de maior concentração. Ele olha para a sua colher de prata para esvaziar sua mente e acaba emitindo mais ondas alfa.
+  </data>
+  <types>
+    <psychic/>
+  </types>
+</pokemon>
+<pokemon name="Alakazam" number="065">
+  <data>  Alakazam, um Pokémon do tipo psíquico.
+
+  É a forma evoluída de Kadabra.
+  
+  Dizem que as colheres em suas mãos são frutos de seus poderes psíquicos. Seu cérebro é tão grande que dizem que é o pokémon mais inteligente que já existiu.
+  </data>
+  <types>
+    <psychic/>
+  </types>
+</pokemon>
+<pokemon name="Machop" number="066">
+  <evolution to="066" level="28"/>
+  <data>  Machop, um Pokémon do tipo lutador.
+  
+  Embora seja baixinho, ele é forte o suficiente para levantar e arremessar uma série de Geodudes de uma só vez. Para ficar mais forte, ele ergue repetidamente um Graveler usando uma mão só.
+  </data>
+  <types>
+    <fighting/>
+  </types>
+</pokemon>
+<pokemon name="Machoke" number="067">
+  <evolution to="068" how="Trade"/>
+  <data>  Machoke, um Pokémon do tipo lutador.
+
+  É a forma evoluída de Machop.
+  
+  O poder ilimitado de Machoke é muito perigoso, por isso usa um cinto que suprime a sua energia. Usando esse poder, ele ajuda as pessoas com trabalhos pesados. Ele é muito procurado por pedreiros e engenheiros.
+  </data>
+  <types>
+    <fighting/>
+  </types>
+</pokemon>
+<pokemon name="Machamp" number="068">
+  <data>  Machamp, um Pokémon do tipo lutador.
+
+  É a forma evoluída de Machoke.
+  
+  Seus quatro braços musculosos acertam seus inimigos com socos potentes e cortes em uma velocidade estonteante. Ele pode dar até mil socos em apenas dois segundos.
+  </data>
+  <types>
+    <fighting/>
+  </types>
+</pokemon>
+<pokemon name="Bellsprout" number="069">
+  <evolution to="070" level="21"/>
+  <data>  Bellsprout, um Pokémon dos tipos grama e venenoso.
+  
+  Ele planta seus pés profundamente no subsolo para se reabastecer com água. Prefere ambientes quentes e úmidos. Ele rapidamente captura sua presa com suas vinhas.
+  </data>
+  <types>
+    <grass/>
+    <posion/>
+  </types>
+</pokemon>
+<pokemon name="Weepinbell" number="070">
+  <evolution to="071" stone="Leaf"/>
+  <data>  Weepinbell, um Pokémon dos tipos grama e venenoso.
+
+  É a forma evoluída de Bellsprout.
+  
+  Um pokémon que parece ser uma planta para capturar presas desavisadas nocauteando-as com um pó venenoso. Os músculos de sua boca são bastante desenvolvidos.
+  </data>
+  <types>
+    <grass/>
+    <posion/>
+  </types>
+</pokemon>
+<pokemon name="Victreebel" number="071">
+  <data>  Victreebel, um Pokémon dos tipos grama e venenoso.
+
+  É a forma evoluída de Weepinbell.
+  
+  Ele tem uma “piscina” em sua boca com um fluido com cheiro de mel que é na verdade um ácido que digere qualquer coisa. O ácido que se dissolveu muitas presas se torna mais doce, tornando ainda mais eficiente para atrai-las.
+  </data>
+  <types>
+    <grass/>
+    <posion/>
+  </types>
+</pokemon>
+<pokemon name="Tentacool" number="072">
+  <evolution to="073" level="30"/>
+  <data>  Tentacool, um Pokémon dos tipos água e venenoso.
+  
+  Seu corpo é praticamente composto de água. Ele dispara feixes estranhos de seus olhos que parecem cristais. Incontáveis pescadores são feridos por seu ferrão todo dia.
+  </data>
+  <types>
+    <water/>
+    <posion/>
+  </types>
+</pokemon>
+<pokemon name="Tentacruel" number="073">
+  <data>  Tentacruel, um Pokémon dos tipos água e venenoso.
+
+  É a forma evoluída de Tentacool.
+  
+  Ele estende seus 80 tentáculos para formar redes de cerco venenoso que é difícil escapar. Seus tentáculos absorvem a água e esticam quase infinitamente para prender suas presas e inimigos.
+  </data>
+  <types>
+    <water/>
+    <posion/>
+  </types>
+</pokemon>
+<pokemon name="Geodude" number="074">
+  <evolution to="075" level="25"/>
+  <data>  Geodude, um Pokémon dos tipos pedra e terra.
+  
+  Muitos vivem por trilhas das montanhas e permanecem semi-enterrados, mantendo um olho em escaladores. Essa atitude faz com que sejam confundidos por pedras na maioria das vezes.
+  </data>
+  <types>
+    <rock/>
+    <ground/>
+  </types>
+</pokemon>
+<pokemon name="Graveler" number="075">
+  <evolution to="076" how="Trade"/>
+  <data>  Graveler, um Pokémon dos tipos pedra e terra.
+
+  É a forma evoluída de Geodude.
+  
+  Ele caminha muito devagar, logo ele rola para se locomover. Ele não presta atenção em nenhum objeto que passa em seu caminho. Com uma natureza livre e indiferente, ele não se importaria se pedaços quebram enquanto ele desce montanhas.
+  </data>
+  <types>
+    <rock/>
+    <ground/>
+  </types>
+</pokemon>
+<pokemon name="Golem" number="076">
+  <data>  Golem, um Pokémon dos tipos pedra e terra.
+
+  É a forma evoluída de Graveler.
+  
+  Nem dinamite pode explodir seu resistente corpo de pedra. Quando está rolando, nada pode pará-lo e ele não para por nada. Ele pode facilmente rolar por cima da lava sem se queimar ou afundar.
+  </data>
+  <types>
+    <rock/>
+    <ground/>
+  </types>
+</pokemon>
+<pokemon name="Ponyta" number="077">
+  <evolution to="078" level="40"/>
+  <data>  Ponyta, um Pokémon do tipo fogo.
+  
+  Exímios corredores, eles sempre ganham corridas de velocidade. Porém se competir com um Ponyta bebê dificilmente irá perder. Seu fogo só queima quem com ele teima.
+  </data>
+  <types>
+    <fire/>
+  </types>
+</pokemon>
+<pokemon name="Rapidash" number="078">
+  <data>  Rapidash, um Pokémon do tipo fogo.
+
+  É a forma evoluída de Ponyta.
+  
+  Com uma grande aceleração, ele alcança sua velocidade máxima, 67 m/s, em apenas 10 passos. Com a sua juba flamejando ferozmente, ele corre como se fosse uma flecha.
+  </data>
+  <types>
+    <fire/>
+  </types>
+</pokemon>
+<pokemon name="Slowpoke" number="079">
+  <evolution to="080" level="37"/>
+  <data>  Slowpoke, um Pokémon dos tipos água e psíquico.
+  
+  Ele é tão inteligente quanto um Wobbuffet e tão veloz quanto um Caterpie. Apesar de lerdo, ele é muito habilidoso com sua cauda. Não sente dor se alguém morder sua cauda.
+  </data>
+  <types>
+    <water/>
+    <psychic/>
+  </types>
+</pokemon>
+<pokemon name="Slowbro" number="080">
+  <data>  Slowbro, um Pokémon dos tipos água e psíquico.
+
+  É a forma evoluída de Slowpoke.
+  
+  Quando um Shellder morde a cauda de Slowpoke ele se torna um lesado Slowbro, se o Shellder é retirado durante uma batalha ele volta a ser um Slowpoke.
+  </data>
+  <types>
+    <water/>
+    <psychic/>
+  </types>
+</pokemon>
+<pokemon name="Magnemite" number="081">
+  <evolution to="082" level="30"/>
+  <data>  Magnemite, um Pokémon do tipo elétrico.
+  
+  Ele usa ondas eletromagnéticas para flutuar, porém isso não impede que ele receba um enorme dano de golpes terrestres. Alimenta-se de eletricidade.
+  </data>
+  <types>
+    <eletric/>
+  </types>
+</pokemon>
+<pokemon name="Magneton" number="082">
+  <data>  Magneton, um Pokémon do tipo elétrico.
+
+  É a forma evoluída de Magnemite.
+  
+  Algumas lendas dizem que ele é resultado de uma junção de três Magnemite nível 30 unidos pelo magnetismo da Pedra do Trovão. Um grupo de Magneton pode causar uma tempestade magnética. Evolui ao entrar em contato com o magnetismo de certos lugares.
+  </data>
+  <types>
+    <eletric/>
+  </types>
+</pokemon>
+<pokemon name="Farfetch'd" number="083">
+  <data>  Farfetch'd, um Pokémon dos tipos normal e voador.
+  
+  Seu alho-poró o permite usar golpes como Furry Cutter, Poison Jab e Leaf Blade. Ele nunca vai a luta sem seu fiel toco de alho-poró. Ele só come seu alho-poró em casos de emergência e mesmo assim logo acha um substituto.
+  </data>
+  <types>
+    <normal/>
+    <flying/>
+  </types>
+</pokemon>
+<pokemon name="Doduo" number="084">
+  <evolution to="085" level="31"/>
+  <data>  Doduo, um Pokémon dos tipos normal e voador.
+  
+  Os cérebros de sua cabeça compartilham emoções por telepatia. Eles também compartilham a fome e estão constantemente brigando entre si por comida.
+  </data>
+  <types>
+    <normal/>
+    <flying/>
+  </types>
+</pokemon>
+<pokemon name="Dodrio" number="085">
+  <data>  Dodrio, um Pokémon dos tipos normal e voador.
+
+  É a forma evoluída de Doduo.
+  
+  Quando Doduo evolui, uma de suas cabeças se divide em duas. Essas duas cabeças compartilham as mesmas memórias. Ele pode correr até uns 18 m/s. Suas cabeças representam alegria, fúria e tristeza.
+  </data>
+  <types>
+    <normal/>
+    <flying/>
+  </types>
+</pokemon>
+<pokemon name="Seel" number="086">
+  <evolution to="087" level="34"/>
+  <data>  Seel, um Pokémon do tipo água.
+  
+  O chifre de sua cabeça é bastante duro, capaz de perfurar o mar congelado. Adora viver num clima frio. Não consegue andar bem em terra, porém é um ótimo nadador.
+  </data>
+  <types>
+    <water/>
+  </types>
+</pokemon>
+<pokemon name="Dewgong" number="087">
+  <data>  Dewgong, um Pokémon dos tipos água e gelo.
+
+  É a forma evoluída de Seel.
+  
+  Armazena uma energia térmica em seu corpo. Mesmo num frio intenso permanece ileso, conseguindo nadar poderosamente em águas geladas. Consegue se camuflar bem na neve.
+  </data>
+  <types>
+    <water/>
+    <ice/>
+  </types>
+</pokemon>
+<pokemon name="Grimer" number="088">
+  <evolution to="089" level="38"/>
+  <data>  Grimer, um Pokémon do tipo venenoso.
+  
+  As plantas deixarão de nascer por onde passar. Enquanto caminha, pedaços de seu corpo podem ficar para trás, formando novos Grimers. Gosta de viver nos esgotos das cidades.
+  </data>
+  <types>
+    <poison/>
+  </types>
+</pokemon>
+<pokemon name="Muk" number="089">
+  <data>  Muk, um Pokémon do tipo venenoso.
+
+  É a forma evoluída de Grimer.
+  
+  Um pokémon sujo e feito de lama. É tão tóxico que mesmo suas pegadas contém veneno. Seu cheiro é tão horrível que pode causar desmaios.
+  </data>
+  <types>
+    <poison/>
+  </types>
+</pokemon>
+<pokemon name="Shellder" number="090">
+  <evolution to="091" stone="Water"/>
+  <data>  Shellder, um Pokémon do tipo água.
+  
+  Sua concha dura repele qualquer tipo de ataque. É vulnerável somente quando sua concha é aberta. Grãos de areia que caem em sua concha podem se tornar pérolas com os fluídos de seu corpo.
+  </data>
+  <types>
+    <water/>
+  </types>
+</pokemon>
+<pokemon name="Cloyster" number="091">
+  <data>  Cloyster, um Pokémon dos tipos água e gelo.
+
+  É a forma evoluída de Shellder.
+  
+  Sua concha é tão dura quanto diamante, ele a utiliza como forma de defesa. Ele agarra seus inimigos fechando a concha. Pode lançar vários espinhos a partir dela. Ninguém nunca viu como são suas entranhas.
+  </data>
+  <types>
+    <water/>
+    <ice/>
+  </types>
+</pokemon>
+<pokemon name="Gastly" number="092">
+  <evolution to="093" level="25"/>
+  <data>  Gastly, um Pokémon dos tipos fantasma e venenoso.
+  
+  Seu corpo é todo feito de gás. Nunca irão surgir quando venta muito. Sua pele é venenosa e pode enfraquecer qualquer um que entrar em contato.
+  </data>
+  <types>
+    <ghost/>
+    <poison/>
+  </types>
+</pokemon>
+<pokemon name="Haunter" number="093">
+  <evolution to="094" how="Trade"/>
+  <data>  Haunter, um Pokémon dos tipos fantasma e venenoso.
+
+  É a forma evoluída de Gastly.
+  
+  Consegue atravessar paredes e usar sua língua para paralizar os outros. Se você tropeçar do nada ou escutar um ruído quando ninguém está por perto, pode ser um Haunter aprontando.
+  </data>
+  <types>
+    <ghost/>
+    <poison/>
+  </types>
+</pokemon>
+<pokemon name="Gengar" number="094">
+  <data>  Gengar, um Pokémon dos tipos fantasma e venenoso.
+
+  É a forma evoluída de Haunter.
+  
+  Em noites de lua cheia, este pokémon sai para imitar as sombras das pessoas e assustá-las. Caso você sinta um calafrio repentino, quer dizer que há um Gengar por perto.
+  </data>
+  <types>
+    <ghost/>
+    <poison/>
+  </types>
+</pokemon>
+<pokemon name="Onix" number="095">
+  <data>  Onix, um Pokémon dos tipos pedra e terra.
+  
+  Conforme vai crescendo, seu corpo rochoso vai ficando cada vez mais duro. Ele consegue cavar no solo em uma alta velocidade, girando e contorcendo as pedras de seu corpo para isso.
+  </data>
+  <types>
+    <rock/>
+    <ground/>
+  </types>
+</pokemon>
+<pokemon name="Drowzee" number="096">
+  <evolution to="097" level="26"/>
+  <data>  Drowzee, um Pokémon do tipo psíquico.
+  
+  Coloca seus oponentes para dormir e em seguida come os seus sonhos. Algumas vezes acaba ficando doente por comer sonhos ruins.
+  </data>
+  <types>
+    <psychic/>
+  </types>
+</pokemon>
+<pokemon name="Hypno" number="097">
+  <data>  Hypno, um Pokémon do tipo psíquico.
+
+  É a forma evoluída de Drowzee.
+  
+  Caso você encontrar um desses, evite o contato olho a olho. Ele vai tentar fazer dormir usando seu pêndulo. Seus poderes hipnóticos são bastante desenvolvidos.
+  </data>
+  <types>
+    <psychic/>
+  </types>
+</pokemon>
+<pokemon name="Krabby" number="098">
+  <evolution to="099" level="28"/>
+  <data>  Krabby, um Pokémon do tipo água.
+  
+  Suas pinças, além de serem uma arma poderosa, servem de equilíbrio para andar de lado. Se uma pinça cair, irá nascer uma nova e mais resistente. Ele fica espumando a boca quando se sente ameaçado.
+  </data>
+  <types>
+    <water/>
+  </types>
+</pokemon>
+<pokemon name="Kingler" number="099">
+  <data>  Kingler, um Pokémon do tipo água.
+
+  É a forma evoluída de Krabby.
+  
+  Sua garra cresceu maciçamente e tão duro quanto aço. Porém, por ser muito pesada, é difícil manuseá-la. Ela tem uma potência de dez mil cavalos.
+  </data>
+  <types>
+    <water/>
+  </types>
+</pokemon>
+<pokemon name="Voltorb" number="100">
+  <evolution to="101" level="30"/>
+  <data>  Voltorb, um Pokémon do tipo elétrico.
+  
+  Normalmente encontrados em usinas de energia. Muitas vezes é confundido com uma pokébola e acaba dando choque em pessoas. Ele pode até explodir em alguns casos.
+  </data>
+  <types>
+    <eletric/>
+  </types>
+</pokemon>
+<pokemon name="Electrode" number="101">
+  <data>  Electrode, um Pokémon do tipo elétrico.
+
+  É a forma evoluída de Voltorb.
+  
+  Ele armazena uma quantidade abundante de energia elétrica dentro de seu corpo. Mesmo um pequeno choque pode fazê-lo explodir. São muito usados como geradores de energia em usinas de força.
+  </data>
+  <types>
+    <eletric/>
+  </types>
+</pokemon>
+<pokemon name="Exeggcute" number="102">
+  <evolution to="103" stone="Leaf"/>
+  <data>  Exeggcute, um Pokémon dos tipos grama e psíquico.
+  
+  Este pokémon é formado por seis ovos comunicam-se entre si por telepatia. Quando aparecem cada vez mais rachaduras nos ovos, é sinal que Exeggcute está para evoluir.
+  </data>
+  <types>
+    <grass/>
+    <psychic/>
+  </types>
+</pokemon>
+<pokemon name="Exeggutor" number="103">
+  <data>  Exeggutor, um Pokémon dos tipos grama e psíquico.
+
+  É a forma evoluída de Exeggcute.
+  
+  Exeggutor pode ter de 3 a 6 cabeças, dependendo do ambiente onde vive. Apesar de pensarem independentemente, suas cabeças nunca vão brigar. Se uma de suas cabeças crescer muito, ela cai e se torna um Exeggcute.
+  </data>
+  <types>
+    <grass/>
+    <psychic/>
+  </types>
+</pokemon>
+<pokemon name="Cubone" number="104">
+  <evolution to="105" level="28"/>
+  <data>  Cubone, um Pokémon do tipo terra.
+  
+  Sua cabeça é coberta pelo crânio de sua falecida mãe. Ele chora sempre que se lembra de sua mãe. As marcas desse crânio foram causadas pelas lágrimas de Cubone que escorreram.
+  </data>
+  <types>
+    <ground/>
+  </types>
+</pokemon>
+<pokemon name="Marowak" number="105">
+  <data>  Marowak, um Pokémon do tipo terra.
+
+  É a forma evoluída de Cubone.
+  
+  Este pokémon guarda ossos desde que nasceu. Possui uma grande habilidade para usá-los como armas. Manda mensagens para outros de sua espécie dando marretadas em pedras com o osso que carrega.
+  </data>
+  <types>
+    <ground/>
+  </types>
+</pokemon>
+<pokemon name="Hitmonlee" number="106">
+  <data>  Hitmonlee, um Pokémon do tipo lutador.
+  
+  Suas pernas podem se esticar para o dobro do tamanho. Quando está com pressa, pode correr dando passos bem largos. Consegue dar vários chutes consecutivos sem sair do lugar. Pode aprender qualquer tipo de chute.
+  </data>
+  <types>
+    <fighting/>
+  </types>
+</pokemon>
+<pokemon name="Hitmonchan" number="107">
+  <data>  Hitmonchan, um Pokémon do tipo lutador.
+  
+  Seus socos são tão velozes que rasgam o ar. Possui um espírito indomável de nunca desistir perante as adversidades. Precisa de um tempo para descansar a cada 3 minutos de batalha. Pode aprender qualquer tipo de soco.
+  </data>
+  <types>
+    <fighting/>
+  </types>
+</pokemon>
+<pokemon name="Lickitung" number="108">
+  <data>  Lickitung, um Pokémon do tipo normal .
+  
+  Sua língua tem mais de dois metros de comprimento. Quando ele a estica por completo, sua cauda balança. Acredita-se que língua e cauda estão de alguma forma conectados.
+  </data>
+  <types>
+    <normal/>
+  </types>
+</pokemon>
+<pokemon name="Koffing" number="109">
+  <evolution to="110" level="35"/>
+  <data>  Koffing, um Pokémon do tipo venenoso.
+  
+  Este pokémon consegue soltar gases explosivos. O seu gás venenoso é mais leve que o ar, o que mantém ele flutuando. Seu gás é ainda mais tóxico em ambientes quentes.
+  </data>
+  <types>
+    <poison/>
+  </types>
+</pokemon>
+<pokemon name="Weezing" number="110">
+  <data>  Weezing, um Pokémon do tipo venenoso.
+
+  É a forma evoluída de Koffing.
+  
+  Onde dois tipos de gases venenosos se encontram, dois Koffings podem se fundir em um Weezing durante muitos anos. Quando uma cabeça infla, a outra murcha. Ele mistura substâncias tóxicas em seu corpo.
+  </data>
+  <types>
+    <poison/>
+  </types>
+</pokemon>
+<pokemon name="Rhyhorn" number="111">
+  <evolution to="112" level="42"/>
+  <data>  Rhyhorn, um Pokémon dos tipos terra e pedra.
+  
+  Ele é lento e tem dificuldade para virar o corpo para o lado devido às suas patas curtas. Seus ossos são mil vezes mais duros do que os dos homens. Não é muito cauteloso, podendo destruir o que estiver em seu caminho.
+  </data>
+  <types>
+    <ground/>
+    <rock/>
+  </types>
+</pokemon>
+<pokemon name="Rhydon" number="112">
+  <data>  Rhydon, um Pokémon dos tipos terra e pedra.
+
+  É a forma evoluída de Rhyhorn.
+  
+  Seu cérebro se desenvolveu depois que passou a andar sobre duas patas. A pele grossa que possui pode protegê-lo ainda que esteja sob o magma. Seu chifre pode girar como uma broca, sendo capaz de quebrar até mesmo diamantes.
+  </data>
+  <types>
+    <ground/>
+    <rock/>
+  </types>
+</pokemon>
+<pokemon name="Chansey" number="113">
+  <data>  Chansey, um Pokémon do tipo normal.
+  
+  Sendo raros e de difícil captura, é dito que ela traz felicidade para o treinador que a pega. Seus ovos são nutritivos e recomendados para uma alimentação balanceada. Anda com cautela para evitar ter seu ovo quebrado.
+  </data>
+  <types>
+    <normal/>
+  </types>
+</pokemon>
+<pokemon name="Tangela" number="114">
+  <data>  Tangela, um Pokémon do tipo grama.
+  
+  Seu corpo é coberto por um emaranhado de vinhas. Elas são compostas por finos fios de cabelo. Sua tática é enrolar os adversários com suas vinhas.
+  </data>
+  <types>
+    <grass/>
+  </types>
+</pokemon>
+<pokemon name="Kangaskhan" number="115">
+  <data>  Kangaskhan, um Pokémon do tipo normal.
+  
+  Este pokémon guarda seus filhotes em sua bolsa marsupial. Ela fará de tudo para proteger o bebê, ainda que judiada em batalha. Raramente o bebê sai da bolsa, eles permanecem lá até completarem 3 anos de idade.
+  </data>
+  <types>
+    <normal/>
+  </types>
+</pokemon>
+<pokemon name="Horsea" number="116">
+  <evolution to="117" level="32"/>
+  <data>  Horsea, um Pokémon do tipo água.
+  
+  Ele faz o seu ninho entre corais. Quando está assustado, esguicha um jato de tinta. Se cai em uma correnteza, enrola sua cauda numa pedra ou planta para não ser levado. Consegue nadar de costas com a sua nadadeira dorsal.
+  </data>
+  <types>
+    <water/>
+  </types>
+</pokemon>
+<pokemon name="Seadra" number="117">
+  <data>  Seadra, um Pokémon do tipo água.
+
+  É a forma evoluída de Horsea.
+  
+  A barriga dele possui grossas cerdas que são venenosas, responsáveis por fornece-lhe proteção. Geralmente são os machos da espécie que cuidam dos filhotes. Ossos e nadadeiras deste pokémon são ingredientes de uma medicina caseira.
+  </data>
+  <types>
+    <water/>
+  </types>
+</pokemon>
+<pokemon name="Goldeen" number="118">
+  <evolution to="119" level="33"/>
+  <data>  Goldeen, um Pokémon do tipo água.
+  
+  Em época de desova, eles são vistos nadando em rios e cachoeiras em grandes grupos. São ótimos e belos nadadores. Se colocados em um grande aquário de vidros resistentes, irão quebrá-lo com a força de seu chifre para escapar.
+  </data>
+  <types>
+    <water/>
+  </types>
+</pokemon>
+<pokemon name="Seaking" number="119">
+  <data>  Seaking, um Pokémon do tipo água.
+
+  É a forma evoluída de Goldeen.
+  
+  Com o seu poderoso chifre, faz buracos nas pedras dos leitos dos rios para fazer o ninho de seus ovos. Ele dá a própria vida para defender seus ovos.
+  </data>
+  <types>
+    <water/>
+  </types>
+</pokemon>
+<pokemon name="Staryu" number="120">
+  <evolution to="121" stone="Water"/>
+  <data>  Staryu, um Pokémon do tipo água.
+  
+  Mesmo que seus membros sejam cortados, Staryu conseguirá regenerá-los desde que a jóia no centro de seu corpo não tenha sido danificada. Quando está muito fraco, a jóia de Staryu começa a piscar.
+  </data>
+  <types>
+    <water/>
+  </types>
+</pokemon>
+<pokemon name="Starmie" number="121">
+  <data>  Starmie, um Pokémon dos tipos água e psíquico.
+
+  É a forma evoluída de Staryu.
+  
+  Seu corpo se desenvolve num formato geometricamente simétrico. Ela se movimenta nas águas girando o corpo como uma hélice. A jóia no núcleo de seu corpo brilha nas sete cores do arco-íris.
+  </data>
+  <types>
+    <water/>
+    <psychic/>
+  </types>
+</pokemon>
+<pokemon name="Mr. Mime" number="122">
+  <data>  Mr. Mime, um Pokémon do tipo psíquico.
+  
+  Ele cria paredes invisíveis vibrando os seus dedos minuciosamente para parar as moléculas no ar. Seus gestos de mímico acabam enganando os outros que pensam que não há nada no caminho.
+  </data>
+  <types>
+    <psychic/>
+  </types>
+</pokemon>
+<pokemon name="Scyther" number="123">
+  <data>  Scyther, um Pokémon dos tipos inseto e voador.
+  
+  As foices afiadas em seus braços ficam ainda mais afiadas quando cortam objetos duros. Ele é tão rápido e veloz quanto um ninja. Ele se esconde pelo gramado pois a cor de seu corpo ajuda a camuflá-lo.
+  </data>
+  <types>
+    <bug/>
+    <flying/>
+  </types>
+</pokemon>
+<pokemon name="Jynx" number="124">
+  <data>  Jynx, um Pokémon dos tipos gelo e psíquico.
+  
+  Ela fala uma linguagem semelhante à dos seres humanos. No entanto, ela parece usar a dança para se comunicar. Ela rebola os quadris enquanto anda.
+  </data>
+  <types>
+    <ice/>
+    <psychic/>
+  </types>
+</pokemon>
+<pokemon name="Electabuzz" number="125">
+  <data>  Electabuzz, um Pokémon do tipo elétrico.
+  
+  O corpo dele descarrega energia constante mente. Ao chegar perto dele, os cabelos de uma pessoa irão se arrepiar. Electabuzz gosta de se alimentar da energia de usinas de força, causando grandes apagões nas cidades.
+  </data>
+  <types>
+    <eletric/>
+  </types>
+</pokemon>
+<pokemon name="Magmar" number="126">
+  <data>  Magmar, um Pokémon do tipo fogo.
+  
+  Magmar não gosta de lugares frios, por isso, sopra um fogo abrasador para tornar o ambiente adequado para si. Quando respira profundamente, emana ondas de calor de seu corpo. Vive próximo às bocas de vulcões, seu corpo resiste a lava.
+  </data>
+  <types>
+    <fire/>
+  </types>
+</pokemon>
+<pokemon name="Pinsir" number="127">
+  <data>  Pinsir, um Pokémon do tipo inseto.
+  
+  Pinsir possui grandes chifres com espinhos. Com eles, agarra seus adversários como uma pinça e aperta-os. Também utiliza os chifres para cavar buracos onde dorme à noite. Além disso, Pinsir detesta o frio.
+  </data>
+  <types>
+    <bug/>
+  </types>
+</pokemon>
+<pokemon name="Tauros" number="128">
+  <data>  Tauros, um Pokémon do tipo normal.
+  
+  É um pokémon de natureza violenta. Ele chicoteia a si mesmo usando seus três rabos para incentivá-lo a batalhar. Quando corre junto com a manada, não para até colidir com algo.
+  </data>
+  <types>
+    <normal/>
+  </types>
+</pokemon>
+<pokemon name="Magikarp" number="129">
+  <evolution to="130" level="20"/>
+  <data>  Magikarp, um Pokémon do tipo água.
+  
+  Dizem que este é um dos pokémons mais fracos que existem. Seu golpe de respingar água é simplesmente inútil. Tem dificuldade mesmo para nadar. Em raras ocasiões, consegue dar grandes saltos.
+  </data>
+  <types>
+    <water/>
+  </types>
+</pokemon>
+<pokemon name="Gyarados" number="130">
+  <data>  Gyarados, um Pokémon dos tipos água e voador.
+
+  É a forma evoluída de Magikarp.
+  
+  Uma vez que fique irado, não irá se acalmar até ter destruído tudo que estiver pelo seu caminho. Ele tem um instinto agressivo. É conhecido por ter incendiado cidades com seus raios.
+  </data>
+  <types>
+    <water/>
+    <flying/>
+  </types>
+</pokemon>
+<pokemon name="Lapras" number="131">
+  <data>  Lapras, um Pokémon dos tipos água e gelo.
+  
+  Adora atravessar os mares carregando pessoas e pokémons em suas costas. Lapras é capaz de entender a fala humana. Ele é gentil e tem o hábito de cantar graciosamente quando está de bom humor.
+  </data>
+  <types>
+    <water/>
+    <ice/>
+  </types>
+</pokemon>
+<pokemon name="Ditto" number="132">
+  <data>  Ditto, um Pokémon do tipo normal.
+  
+  Tem a capacidade de reconstituir sua estrutura celular para se transformar em qualquer coisa que esteja vendo. Se tentar se transformar em algo baseando-se no que tem na memória, acaba errando vários detalhes.
+  </data>
+  <types>
+    <normal/>
+  </types>
+</pokemon>
+<pokemon name="Eevee" number="133">
+  <evolution to="134" stone="Water"/>
+  <evolution to="135" stone="Thunder"/>
+  <evolution to="136" stone="Fire"/>
+  <data>  Eevee, um Pokémon do tipo normal.
+  
+  Por possuir uma composição genética irregular, Eevee pode evoluir seu corpo para as mais diversificadas formas, dependendo daquilo que o cerca. Por esta razão, consegue adaptar-se facilmente a qualquer tipo de ambiente.
+  </data>
+  <types>
+    <normal/>
+  </types>
+</pokemon>
+<pokemon name="Vaporeon" number="134">
+  <data>  Vaporeon, um Pokémon do tipo água.
+
+  É a forma evoluída de Eevee.
+  
+  Sua composição celular é semelhante às moléculas de água. Quando suas barbatanas começam a vibrar, é sinal que uma chuva está para cair. Ele pode fundir o seu corpo na água, ficando completamente invisível.
+  </data>
+  <types>
+    <water/>
+  </types>
+</pokemon>
+<pokemon name="Jolteon" number="135">
+  <data>  Jolteon, um Pokémon do tipo elétrico.
+
+  É a forma evoluída de Eevee.
+  
+  Ele pode descarregar uma força de dez mil volts. Os pelos de seu corpo são tão espetados quanto uma agulha afiada. Ele arruma sua pelugem com eletricidade.
+  </data>
+  <types>
+    <eletric/>
+  </types>
+</pokemon>
+<pokemon name="Flareon" number="136">
+  <data>  Flareon, um Pokémon do tipo fogo.
+
+  É a forma evoluída de Eevee.
+  
+  As chamas que ele dispara são tão quentes que podem chegar a mais de 1600ºC. Sua temperatura corporal ultrapassa os 800ºC. Ele afofa sua pelugem com a temperatura do corpo.
+  </data>
+  <types>
+    <fire/>
+  </types>
+</pokemon>
+<pokemon name="Porygon" number="137">
+  <data>  Porygon, um Pokémon do tipo normal.
+  
+  Este pokémon artificial foi criado por tecnologias científicas avançadas. Ele pode mover-se livremente no ciberespaço. Está programado apenas com emoções básicas e não precisa respirar para sobreviver.
+  </data>
+  <types>
+    <normal/>
+  </types>
+</pokemon>
+<pokemon name="Omanyte" number="138">
+  <evolution to="139" level="40"/>
+  <data>  Omanyte, um Pokémon dos tipos pedra e água.
+  
+  Este pokémon nadava pelos mares torcendo os seus dez tentáculos desde os tempos antigos. Ele usa o ar armazenado em sua concha para emergir e submergir na água. Eles são revividos de fósseis por cientistas.
+  </data>
+  <types>
+    <rock/>
+    <water/>
+  </types>
+</pokemon>
+<pokemon name="Omastar" number="139">
+  <data>  Omastar, um Pokémon dos tipos pedra e água.
+
+  É a forma evoluída de Omanyte.
+  
+  Acredita-se que este pokémon tenha se extinguido por sua concha espiral ter crescido muito e ficado pesado demais para suportar. Ele agarra suas vítimas com seus tentáculos e as tritura com seus dentes.
+  </data>
+  <types>
+    <rock/>
+    <water/>
+  </types>
+</pokemon>
+<pokemon name="Kabuto" number="140">
+  <evolution to="141" level="40"/>
+  <data>  Kabuto, um Pokémon dos tipos pedra e água.
+  
+  Acredita-se que ele tenha habitado praias 300 anos atrás. Seu corpo é protegido por um duro casco. Ele também possui olhos nesse casco. Já foram encontrados alguns exemplares de seu fóssil ainda vivos.
+  </data>
+  <types>
+    <rock/>
+    <water/>
+  </types>
+</pokemon>
+<pokemon name="Kabutops" number="141">
+  <data>  Kabutops, um Pokémon dos tipos pedra e água.
+
+  É a forma evoluída de Kabuto.
+  
+  Estudos dizem que esse pokémon deixou os mares porque suas presas adaptaram-se a viver em terra firme. Ele ataca suas presas cortando-as com as lâminas de suas garras afiadas.
+  </data>
+  <types>
+    <rock/>
+    <water/>
+  </types>
+</pokemon>
+<pokemon name="Aerodactyl" number="142">
+  <data>  Aerodactyl, um Pokémon dos tipos pedra e voador.
+  
+  O extinto pokémon percorria os céus na era dos dinossauros. Seus dentes se movem como uma serra ao mastigar. Cientistas conseguem ressuscitá-lo a partir de um material genético de dinossauro extraído de um velho âmbar.
+  </data>
+  <types>
+    <rock/>
+    <flying/>
+  </types>
+</pokemon>
+<pokemon name="Snorlax" number="143">
+  <data>  Snorlax, um Pokémon do tipo normal.
+  
+  Se torna muito preguiçoso quando está de estômago cheio. Sua barriga se torna elástica, fazendo pular qualquer coisa que cair sobre ela. Seu estômago pode digerir qualquer tipo de veneno. Dorme por um longo período após comer bastante.
+  </data>
+  <types>
+    <normal/>
+  </types>
+</pokemon>
+<pokemon name="Articuno" number="144">
+  <data>  Articuno, um Pokémon dos tipos gelo e voador.
+  
+  Pode criar nevascas congelando a umidade do ar. Dizem que suas asas são feitas de gelo. Com uma cauda longa e brilhante, sua forma de voar é magnífica. Ele aparece para pessoas perdidas em montanhas congeladas.
+  </data>
+  <types>
+    <ice/>
+    <flying/>
+  </types>
+</pokemon>
+<pokemon name="Zapdos" number="145">
+  <data>  Zapdos, um Pokémon dos tipos elétrico e voador.
+  
+  É dito que este pokémon vive em nuvens de trovão. Ele consegue controlar livremente os relâmpagos. Ganha forças quando é atingido por um raio. Costuma soltar alguns estrondos enquanto voa.
+  </data>
+  <types>
+    <eletric/>
+    <flying/>
+  </types>
+</pokemon>
+<pokemon name="Moltres" number="146">
+  <data>  Moltres, um Pokémon dos tipos fogo e voador.
+  
+  A aparição de Moltres indica a chegada da primavera. Quando ele é ferido, mergulha seu corpo no magma de um vulcão para queimar e curar o seu corpo. Atletas carregam uma tocha com sua chama em algumas Ligas Pokémon.
+  </data>
+  <types>
+    <fire/>
+    <flying/>
+  </types>
+</pokemon>
+<pokemon name="Dratini" number="147">
+  <evolution to="148" level="30"/>
+  <data>  Dratini, um Pokémon do tipo dragão.
+  
+  É conhecido como "pokémon miragem" pois poucos já o viram. Ele troca de pele continuamente e fica cada vez maior. Ele faz isso porque sua energia vital aumenta constantemente, atingindo níveis incontroláveis.
+  </data>
+  <types>
+    <dragon/>
+  </types>
+</pokemon>
+<pokemon name="Dragonair" number="148">
+  <evolution to="149" level="55"/>
+  <data>  Dragonair, um Pokémon do tipo dragão.
+
+  É a forma evoluída de Dratini.
+  
+  Se o seu corpo adquire uma aura, o tempo muda instantaneamente. As jóias cristalinas que possui dão a ele o poder de controlar o clima. Diz-se que vive em mares e lagos, mas também é visto voando.
+  </data>
+  <types>
+    <dragon/>
+  </types>
+</pokemon>
+<pokemon name="Dragonite" number="149">
+  <data>  Dragonite, um Pokémon dos tipos dragão e voador.
+
+  É a forma evoluída de Dragonair.
+  
+  Ele constrói sua casa em algum lugar do oceano. O formato de seu corpo permite que consiga voar tranquilamente sobre mares agitados. Ele ajuda os navios a encontrar terra firme em tempestades. Ele é capaz de dar a volta ao mundo em 16 horas.
+  </data>
+  <types>
+    <dragon/>
+    <flying/>
+  </types>
+</pokemon>
+<pokemon name="Mewtwo" number="150">
+  <data>  Mewtwo, um Pokémon do tipo psíquico.
+  
+  Um pokémon que foi clonado geneticamente de Mew. O poder científico dos humanos não conseguiu dar a ele um coração compassivo. Geralmente ele permanece imóvel para conservar sua energia, de forma que possa liberar seu poder total em batalha.
+  </data>
+  <types>
+    <psychic/>
+  </types>
+</pokemon>
+<pokemon name="Mew" number="151">
+  <data>  Mew, um Pokémon do tipo psíquico.
+  
+  Se mostra apenas para pessoas de coração puro. Seu DNA contém códigos genéticos de todos os pokémons. Como é capaz de aprender qualquer tipo de golpe, muitos cientistas acreditam que ele é o antepassado de todos os pokémons.
+  </data>
+  <types>
+    <psychic/>
+  </types>
+</pokemon>
+</pokeagenda>
