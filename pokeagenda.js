@@ -26,4 +26,6 @@ function pokeagenda () {
   }
   this.set(1);
 }
-oPokeAgenda = new pokeagenda();
+window.addEventListener('load',function() {
+  oPokeAgenda = new pokeagenda();
+});
