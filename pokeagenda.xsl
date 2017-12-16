@@ -7,7 +7,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <html>
   <head>
     <link rel="stylesheet" href="pokeagenda.css"/>
-    <script src="http://code.responsivevoice.org/responsivevoice.js"></script>
+    <script src="://code.responsivevoice.org/responsivevoice.js"></script>
     <script src="pokeagenda.js"></script>
   </head>
   <body>
