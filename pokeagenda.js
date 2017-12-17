@@ -13,7 +13,7 @@ function pokeagenda () {
     elPoke[1].style['display'] = 'block';
     try {
     responsiveVoice.cancel();
-    responsiveVoice.speak(elPoke[1].querySelector("#display_text").innerText.replace(/\n/g,''), "Brazilian Portuguese Female", {rate: 2});
+    responsiveVoice.speak(elPoke[1].querySelector("#display_text").innerText.replace(/\n/g,''), "Brazilian Portuguese Female");
     } catch(e) {}
   }
   
