@@ -1,6 +1,6 @@
 # PokeAgenda
 
-A demonstração da Poke agenda está disponível em [marcelojannotti.github.io/pokeAgenda/dados.xml](https://marcelojannotti.github.io/pokeAgenda/dados.xml "PokeAgenda").
+A demonstração da PokeAgenda está disponível em [marcelojannotti.github.io/pokeAgenda/dados.xml](https://marcelojannotti.github.io/pokeAgenda/dados.xml "PokeAgenda").
 
 E o projeto está disponível em [github.com/marcelojannotti/pokeAgenda](https://github.com/marcelojannotti/pokeAgenda "Projeto PokeAgenda")
 
