@@ -106,11 +106,11 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <xsl:template match="pokemon/evolution[@stone]">
 <xsl:variable name="id" select="./@to" />
-  <div onclick="oPokeAgenda.set('{$id}')"><img src="img/{$id}.png" class="pokemini"/> <xsl:value-of select="/pokeagenda/pokemon[@number = $id]/@name"/><br/><span>(<xsl:value-of select="./@stone"/> Stone)</span></div>
+  <div onclick="oPokeAgenda.set('{$id}')"><img src="img/icons/{$id}.png" class="pokemini"/> <xsl:value-of select="/pokeagenda/pokemon[@number = $id]/@name"/><br/><span>(<xsl:value-of select="./@stone"/> Stone)</span></div>
 </xsl:template>
 
 <xsl:template match="pokemon/evolution[@how]">
 <xsl:variable name="id" select="./@to" />
-  <div onclick="oPokeAgenda.set('{$id}')"><img src="img/{$id}.png" class="pokemini"/> <xsl:value-of select="/pokeagenda/pokemon[@number = $id]/@name"/><br/><span>(<xsl:value-of select="./@how"/>)</span></div>
+  <div onclick="oPokeAgenda.set('{$id}')"><img src="img/icons/{$id}.png" class="pokemini"/> <xsl:value-of select="/pokeagenda/pokemon[@number = $id]/@name"/><br/><span>(<xsl:value-of select="./@how"/>)</span></div>
 </xsl:template>
 </xsl:stylesheet>
